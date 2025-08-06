@@ -44,7 +44,7 @@ Blueprint completo para criação de um site WordPress seguro e bem estruturado,
 
 ## ✅  2. Checklist de Segurança para WordPress
 
-## 🔐 1. Infraestrutura
+### 🔐 1. Infraestrutura
 - [ ] Servidor com PHP, MySQL/MariaDB e Apache/Nginx atualizados
 - [ ] Exibição de erros desabilitada em produção
 - [ ] Listagem de diretórios desabilitada
